@@ -1,8 +1,8 @@
 # Log File Extraction Tool
 
-This repository contains a tool to efficiently extract logs from a large log file. The tool reads a log file line by line and extracts entries for a specific date, saving the results to an output file. This is useful for quickly filtering logs for specific dates in large log files.
+This repository contains a tool to efficiently extract logs from a large log file. The tool reads a log file line by line and extracts entries for a specific date, saving the results to an output file. This is useful for quickly filtering logs for specific dates in large log files. I have used two languages JavaScript and Python.
 
-## Features
+## Features of JavaScript Code
 
 - Extract logs from a specific date.
 - Efficient handling of large log files by reading them line by line.
